@@ -1,0 +1,40 @@
+.usercard {
+  background-color: #dee7ff;
+  width: 832px;
+  height: 317px;
+  border-radius: 6px;
+  padding: 20px 30px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.usercard .para{
+  font-size: 18px;
+  /* font-weight: 700; */
+  line-height: 27px;
+  margin-top: 15px;
+  
+}
+.user-details {
+  display: flex;
+  gap:15px
+}
+.usercard input{
+  background-color: transparent;
+  outline: none;
+  border: 2px solid rgb(119, 119, 119);
+  border-radius: 3px;
+  width:500px;
+
+  height: 40px;
+
+
+}
+.usercard button{
+  background-color: transparent;
+  border: 2px solid rgb(119, 119, 119);
+
+  border-radius: 3px;
+  height: 40px;
+  width: 70px;
+
+
+}
